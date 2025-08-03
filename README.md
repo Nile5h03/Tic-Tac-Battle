@@ -1,41 +1,32 @@
-# Tic-Tac-Battle
+# 🎮 Tic-Tac-Battle
+>**Classic Fun, Reimagined for the Web!**
 
+# 🔍 About
 
+Tic-Tac-Battle is your favorite childhood game — Tic Tac Toe — brought to life in the browser with a modern and minimal twist. Designed for quick matches and fun showdowns, it offers smooth two-player gameplay in a clean interface. Whether you're passing time or battling a friend, Tic-Tac-Battle is all about fast, focused fun.
 
-TicTacBattle is your favorite childhood game, reimagined for the modern web. It’s fast, responsive, and incredibly easy to jump into — but mastering it takes sharp thinking and clever strategy. Whether you're looking to challenge a friend, pass the time, or sharpen your logic skills, TicTacBattle delivers a smooth and addictive 3x3 experience in a clean, distraction-free interface. With its minimal design and real-time gameplay, it’s perfect for quick duels and casual fun — all right in your browser.
+# 🛠️ Skillset
 
+HTML5
 
+CSS3 (Responsive Grid Layout, Basic UI Animations)
 
+JavaScript (Game Logic, DOM Manipulation, Event Handling)
 
+# ✨ Features
 
+🧠 Classic 3x3 Tic Tac Toe board
 
+⚔️ Two-player mode – play with a friend on the same device
 
-✨ FEATURES:-
+🎯 Real-time win detection and reset option
 
+📱 Fully responsive – works on desktop, tablet, and mobile
 
-🎮 Play classic Tic Tac Toe with a modern twist.
+🌙 Dark mode ready (if implemented)
 
-🤖 Optional AI mode (if implemented).
+⚡ Lightweight and fast – no frameworks, just pure HTML/CSS/JS
 
-🎯 Real-time win tracking and game reset.
+# 📸 Screenshots
 
-⚔️ Two-player mode – play with a friend.
-
-📱 Fully responsive – works on mobile, tablet, and desktop.
-
-🌙 Dark mode ready (if implemented).
-
-⚡ Lightweight and fast – built for smooth gameplay.
-
-
-
-
-🛠️ SKILLSET:-
-
-
-* HTML5
-
-* CSS3 (responsive grid design + basic UI animations)
-
-* JavaScript (DOM manipulation, game logic, event handling)
-
+Add screenshots here to showcase UI/UX (optional but recommended)
