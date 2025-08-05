@@ -1,5 +1,5 @@
 # 🎮 Tic-Tac-Battle
->**Classic Fun, Reimagined for the Web!**
+>**"A simple game... until it's not. Face off in TicTacBattle!"**
 
 # 🔍 About
 
