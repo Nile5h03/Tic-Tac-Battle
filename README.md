@@ -1,5 +1,5 @@
 # 🎮 Tic-Tac-Battle
->**"A simple game... until it's not. Face off in TicTacBattle!"**
+>**"A simple game... until it's not. Face off in Tic-Tac-Battle!"**
 
 # 🔍 About
 
