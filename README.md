@@ -23,9 +23,9 @@ JavaScript (Game Logic, DOM Manipulation, Event Handling)
 
 📱 Fully responsive – works on desktop, tablet, and mobile
 
-🌙 Dark mode ready (if implemented)
+⚡ Lightweight and fast – no frameworks used.
 
-⚡ Lightweight and fast – no frameworks, just pure HTML/CSS/JS
+🌙 Dark mode ready (if implemented)
 
 # 📸 Screenshots
 
